@@ -1,0 +1,6 @@
+{
+  "name": "Rila Video Generator",
+  "description": "Production-ready Text-to-Video AI Generator and Director app for crafting master AI video prompts, global settings, and scene-by-scene cinematic breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
